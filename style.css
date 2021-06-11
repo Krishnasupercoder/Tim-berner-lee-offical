@@ -1,0 +1,99 @@
+body{
+margin: 0;
+text-align: center;
+    
+}
+.profile{
+width: 175px;
+border-radius:50%;
+margin-bottom: 50px;    
+    
+}
+#welcome{
+background: linear-gradient(#05ffee 0%, #c8eb1a 100%);
+width: 100%;
+height: 100%;
+color: white;
+    padding: 50px;
+    
+    
+}
+#bio{
+padding: 50px;    
+background: linear-gradient(#0afaee 0%, #420afa 100%);    
+    
+}
+.line{
+background-color: black;
+height: 6px;
+width: 70px;    
+    margin: auto;
+    
+}
+p{
+max-width: 450px;    
+font-size: 17px;
+margin: auto    
+    
+    
+    
+}
+.menu{
+list-style: none;   
+font-family:fantasy;
+top: 10px;
+right: 30px;
+cursor:pointer;
+    position:fixed;
+    font-weight: bold;
+    width: 100%;
+    margin-top: 0px;
+}
+.links{
+padding-left: 33px;
+padding-right: 25px;
+display: inline;
+font-family: cursive;
+font-size: 20px;    
+}
+.links:hover{
+font-size: 25px;
+text-decoration: underline;    
+}
+#tim{
+    font-family: 'Dancing Script', cursive;
+    font-size:50px; 
+}
+a{
+    text-decoration: none;
+    color: darkblue;
+    text-shadow: 2px 2px blue;
+}
+.article:hover{
+background-color: skyblue;
+}
+html{
+    scroll-behavior: smooth;
+}
+#Videos{
+    padding: 50px;    
+background: linear-gradient(#ebeb34 0%, #420afa 100%);
+}
+#Writings a{
+    text-decoration: underline !important;
+    text-shadow: none !important;
+    color: blue !important;
+}
+#Contacts iframe{
+    width:100%;
+}
+.contact_1 a{
+    color: white;
+    text-shadow: none;
+}
+#Contacts{
+    background-color:darkcyan
+}
+#Work{
+    background-color: aqua;
+}
